@@ -1,0 +1,139 @@
+html {
+    background: #AAA;
+    height: 100%;
+    background: linear-gradient(to bottom, #FFF 0%, #999 100%);
+}
+body {
+    background-size: cover;
+    background-repeat:no-repeat;
+    
+    background: url("/images/background.png") repeat;
+    
+    text-align: center;
+    min-height: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: montserrat light, sans-serif;
+    min-width: 1210px;
+}
+
+body {
+    height: 100%;
+}
+
+.logo {
+    padding-top: 20px;
+    width: 300px;
+    margin: 0px auto;
+}
+
+.splash-wrapper {
+    width: 1200px;
+    min-height: 500px;
+    margin: 0px auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.splash-column {
+    width: 360px;
+    min-height: 330px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    background: #EEE;
+    border-radius: 12px;
+    font-family: sans-serif;
+    color: #333;
+}
+
+.splash-column:hover {
+    background: #FFF;
+}
+
+.splash-column > p {
+    font-size: 85%;
+    text-align: left;
+}
+
+footer {
+    font-family: sans-serif;
+    font-size: 90%;
+    color: #555;
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+}
+
+.topbar {
+    margin: 0px;
+    padding: 0px;
+    background: #FAFAFA;
+    border-bottom: 1px solid #999;
+    height: 48px;
+    min-width: 1100px;
+}
+
+.topbar > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.topbar > ul > li:last-child {
+    border-right: 1px solid #DDD;
+}
+
+.topbar > ul > li {
+    display: inline-block;
+    border-left: 1px solid #DDD;
+    height: 30px;
+    padding: 4px;
+    padding-top:14px;
+    min-width: 48px;
+    font-weight: bold;
+    font-size: 85%;
+    font-family: montserrat light, sans-serif;
+}
+
+.topbar > ul > li > a {
+    text-decoration: none;
+    color: #333;
+}
+
+.topbar > ul > li:hover {
+    background: #FFF;
+}
+
+.topbar > ul > li > a > img {
+   height: 24px;
+   vertical-align: middle;
+}
+
+ul.community > li.pmc:before {
+    content: "•";
+    padding-right: 8px;
+    color: green;
+}
+
+ul.community > li.chair:before {
+    content: "•";
+    padding-right: 8px;
+    color: blue;
+}
+
+.wrapper-main {
+   font-size: 0.9rem;
+}
+.wrapper-main > div:not(.splash-wrapper){
+    border: 1px solid #BBB;
+    text-align: left;
+    padding: 16px;
+    width:  1100px;
+    border-radius: 12px;
+    margin: 40px auto;
+    background: #FFF;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
