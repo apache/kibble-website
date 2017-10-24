@@ -26,3 +26,6 @@ You can subscribe to the list by sending an email to [dev-subscribe@kibble.apach
 You can also browse the archives online at [lists.apache.org](https://lists.apache.org/list.html?dev@kibble.apache.org).
 
 We also have an IRC channel, #kibble on [Freenode](https://webchat.freenode.net/?channels=#kibble)
+You can also access out HipChat channel at: [https://www.hipchat.com/gTS74qZoO](https://www.hipchat.com/gTS74qZoO)
+
+HipChat and IRC are bridged, so whichever channel you speak in, we'll see it :)
