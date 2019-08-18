@@ -19,6 +19,7 @@ The Apache Kibble project is currently comprised of 12 contributors:
 
 ### How to get involved
 
+#### Mailing Lists
 The main development and design discussion happens on our mailing lists.
 We have a list specifically for development, and one for future user questions and feedback.
 
@@ -26,7 +27,13 @@ To join in the discussion on the design and roadmap, you can send an email to [d
 You can subscribe to the list by sending an email to [dev-subscribe@kibble.apache.org](mailto:dev-subscribe@kibble.apache.org).<br/>
 You can also browse the archives online at [lists.apache.org](https://lists.apache.org/list.html?dev@kibble.apache.org).
 
-We also have an IRC channel, #kibble on [Freenode](https://webchat.freenode.net/?channels=#kibble)<br/>
-You can also access our HipChat channel at: [https://www.hipchat.com/gTS74qZoO](https://www.hipchat.com/gTS74qZoO)
+#### Kibble Chat
+To chat with users and developers of Apache Kibble, you can use Slack or IRC.<br/>
 
-HipChat and IRC are bridged, so whichever channel you speak in, we'll see it :)
+##### Slack
+Please create a Slack account using [this invite link](https://s.apache.org/slack-invite) and [join the #kibble channel](https://s.apache.org/kibble-slack-channel).
+
+##### IRC
+We also have an IRC channel, #kibble on [Freenode](https://webchat.freenode.net/?channels=#kibble).<br/>
+
+Slack and IRC are bridged, so whichever channel you speak in, we'll see it :)
