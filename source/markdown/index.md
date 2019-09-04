@@ -65,7 +65,6 @@
               </tr>
           </table>
           <br />
-          <p>Or chat to us via IRC on #kibble on 
-          <a href="https://webchat.freenode.net/?channels=#kibble">Freenode</a></p>
+          <p>Or chat with us via the instant messaging platforms, as explained on the <a href='community.html'>Community page</a>.
       </div>
   </div>
