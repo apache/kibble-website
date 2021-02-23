@@ -121,6 +121,12 @@ ul.community > li.chair:before {
     color: blue;
 }
 
+ul.community > li.committer:before {
+    content: "•";
+    padding-right: 8px;
+    color: red;
+}
+
 .wrapper-main {
    font-size: 0.9rem;
 }
