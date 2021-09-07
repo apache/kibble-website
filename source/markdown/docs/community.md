@@ -34,6 +34,6 @@ To chat with users and developers of Apache Kibble, you can use Slack or IRC.<br
 Please create a Slack account using [this invite link](https://s.apache.org/slack-invite) and [join the #kibble channel](https://s.apache.org/kibble-slack-channel).
 
 ##### IRC
-We also have an IRC channel, #kibble on [Freenode](https://webchat.freenode.net/?channels=#kibble).<br/>
+We also have an IRC channel, #kibble on [irc.libera.chat](https://web.libera.chat/?channels=#kibble).<br/>
 
 Slack and IRC are bridged, so whichever channel you speak in, we'll see it :)
