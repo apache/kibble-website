@@ -2,19 +2,22 @@
 
 ### Who are we?
 
-The Apache Kibble project is currently comprised of 12 contributors:
+The Apache Kibble project is currently comprised of 15 contributors:
 
 - Christofer Dutz (PMC member, committer)
 - Daniel Gruno (PMC member, committer)
 - Daniel Takamori (PMC member, committer)
 - David Nalley (PMC member, committer)
 - Hervé Boutemy (PMC member, committer)
+- Kaxil Naik (committer)
 - Larry McCay (PMC member, committer)
+- Michał Słowikowski (PMC member, committer)
 - Rafael Weingärtner (PMC member, committer)
-- Rich Bowen (Project Chair, PMC member, committer)
-- Sally Khudairi (PMC member, committer)
+- Rich Bowen (PMC member, committer)
+- Sally Khudairi (committer)
 - Sean Palmer (PMC member, committer)
-- Sharan Foga (PMC member, committer)
+- Sharan Foga (Project Chair, committer)
+- Tomasz Urbaszek (PMC member, committer)
 - Ulises Cerviño Beresi (PMC member, committer)
 
 ### How to get involved

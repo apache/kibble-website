@@ -10,7 +10,7 @@
           <strong>Our mission</strong>
           <br />
           <p>To produce an interactive software suite aimed at analyzing, aggregating and visualizing the activity and trends of software projects.</p>
-          <p>Towards that end, we will be discussing and publishing several 
+          <p>Towards that end, we will be discussing and publishing several
           <a href="docs/design.html">design specifications</a> used to drive the software product forwards. Anyone is free to engage in the discussion on our mailing lists.</p>
       </div>
       <div class="splash-column">
@@ -18,24 +18,27 @@
           <br />
           <strong>Who we are</strong>
           <br />
-          <p>In alphabetical order, we are: 
+          <p>In alphabetical order, we are:
           <ul class="community" style="list-style: none; text-align: left; font-size: 85%;">
               <li class="pmc">Christofer Dutz</li>
               <li class="pmc">Daniel Gruno</li>
               <li class="pmc">Daniel Takamori</li>
               <li class="pmc">David Nalley</li>
               <li class="pmc">Hervé Boutemy</li>
+              <li class="committer">Kaxil Naik</li>
               <li class="pmc">Larry McCay</li>
+              <li class="pmc">Michał Słowikowski</li>
               <li class="pmc">Rafael Weingärtner</li>
-              <li class="chair">Rich Bowen</li>
-              <li class="pmc">Sally Khudairi</li>
+              <li class="pmc">Rich Bowen</li>
+              <li class="committer">Sally Khudairi</li>
               <li class="pmc">Sean Palmer</li>
-              <li class="pmc">Sharan Foga</li>
+              <li class="chair">Sharan Foga</li>
+              <li class="pmc">Tomasz Urbaszek</li>
               <li class="pmc">Ulises Cerviño Beresi</li>
           </ul>
-          <span style="font-size: 85%;">( 
-          <span style="color: blue">• Chair</span>, 
-          <span style="color: green">• PMC</span>, 
+          <span style="font-size: 85%;">(
+          <span style="color: blue">• Chair</span>,
+          <span style="color: green">• PMC</span>,
           <span style="color: red">• Committer</span>)</span></p>
       </div>
       <div class="splash-column">
@@ -43,7 +46,7 @@
           <br />
           <strong>Get in touch</strong>
           <br />
-          <p>Please use one of our mailing lists to get in touch with the Kibble project: 
+          <p>Please use one of our mailing lists to get in touch with the Kibble project:
           <br />
           <br /></p>
           <table border="0" style="font-size: 80%; text-align: left;">
@@ -65,6 +68,6 @@
               </tr>
           </table>
           <br />
-          <p>Or chat with us via the instant messaging platforms, as explained on the <a href='community.html'>Community page</a>.
+          <p>Or chat with us via the instant messaging platforms, as explained on the <a href='/docs/community.html'>Community page</a>.
       </div>
   </div>
