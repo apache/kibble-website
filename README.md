@@ -12,7 +12,7 @@ This project keeps all sources used for building up Kibble official website, ser
 2. Open a shell, go to the kibble-website/source/ dir 
 3. Run `python3 generate.py` command
 4. To verify your change locally, go to kibble-website/content directory 
-Run `python -m SimpleHTTPServer 8000` command
+Run `python3 -m http.server` command
 The website http://localhost:8000/
 5. Commit the changes to git :)
 
