@@ -13,8 +13,8 @@ This project keeps all sources used for building up Kibble official website, ser
 3. Run `python3 generate.py` command
 4. To verify your change locally, go to kibble-website/content directory 
 Run `python3 -m http.server` command
-The website http://localhost:8000/
-5. Commit the changes to git :)
+5. Navigate to `http://localhost:8000/` to view the website.
+6. Commit the changes to git :)
 
 
 Note: For production site https://kibble.apache.org, the buildbot will regenerate the site from the markdown files and publish it.
