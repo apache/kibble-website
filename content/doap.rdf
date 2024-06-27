@@ -39,6 +39,8 @@
         <location rdf:resource="https://github.com/apache/kibble.git"/>
         <browse rdf:resource="https://github.com/apache/kibble"/>
       </GitRepository>
+    </repository>
+    <repository>
       <GitRepository>
         <location rdf:resource="https://github.com/apache/kibble-1.git"/>
         <browse rdf:resource="https://github.com/apache/kibble-1"/>
