@@ -26,7 +26,7 @@
     <license rdf:resource="http://spdx.org/licenses/Apache-2.0" />
     <name>Apache Kibble</name>
     <homepage rdf:resource="https://kibble.apache.org" />
-    <asfext:pmc rdf:resource="https://kibble.apache.org" />
+    <asfext:pmc rdf:resource="https://attic.apache.org" />
     <shortdesc>Apache Kibble is a suite of tools for collecting, aggregating and visualizing activity in software projects. </shortdesc>
     <description>Apache Kibble is a suite of tools for collecting, aggregating and visualizing activity in software projects. </description>
     <bug-database rdf:resource="https://github.com/apache/kibble/issues" />
@@ -34,6 +34,7 @@
     <download-page rdf:resource="https://kibble.apache.org/docs/downloads.html" />
     <programming-language>Python</programming-language>
     <category rdf:resource="http://projects.apache.org/category/big-data" />
+    <category rdf:resource="http://projects.apache.org/category/retired" />
     <repository>
       <GitRepository>
         <location rdf:resource="https://github.com/apache/kibble.git"/>
